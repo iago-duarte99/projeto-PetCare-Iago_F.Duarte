@@ -1,0 +1,12 @@
+[
+  {
+    "name": "PetCare MySQL",
+    "driver": "MySQL",
+    "server": "localhost",
+    "port": 3306,
+    "database": "petcare",
+    "username": "root",
+    "password": "sua_senha",
+    "connectionTimeout": 30
+  }
+]
