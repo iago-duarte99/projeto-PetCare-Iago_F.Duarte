@@ -4,7 +4,21 @@ Sistema de gestão para clínica veterinária **PetCare**, implementado com banc
 O projeto organiza cadastros de clientes, animais, consultas, atendimentos e pagamentos, seguindo normalização até a **3ª Forma Normal (3FN)**.
 
 ---
+# 👨‍🎓 Autor
+## Iago Figueiredo Duarte 
+Experiência Prática 4 – Criação e Manipulação de Dados com SQL em Projeto Real (Mini-mundo)
 
+# 📊 Funcionalidades Implementadas
+---
+Cadastro de clientes e animais
+
+Agendamento de consultas
+
+Registro de atendimentos
+
+Controle de pagamentos
+
+Consultas SQL para relatórios (ex.: faturamento mensal, animais sem consulta futura)
 ## Estrutura
 - sql/: scripts (schema, insert, select, update_delete, reset)
 - config/: sqltools connections e docker-compose
@@ -28,7 +42,7 @@ O projeto organiza cadastros de clientes, animais, consultas, atendimentos e pag
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+# 🛠 Ferramentas Utilizadas
 
 - **VS Code** com extensões:
   - SQLTools
@@ -39,7 +53,7 @@ O projeto organiza cadastros de clientes, animais, consultas, atendimentos e pag
 
 ---
 
-## 🚀 Como Executar no VS Code
+# 🚀 Como Executar no VS Code
 
 1. **Instale as extensões**:
    - SQLTools
